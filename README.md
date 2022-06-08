@@ -1,7 +1,6 @@
 # alpinehelloworld from Williams AHILE !
 An Alpine-based Docker example By Williams AHILE
 
-[![Build Status](https://media-exp1.licdn.com/dms/image/C4D03AQHBth6r53fxZA/profile-displayphoto-shrink_200_200/0/1629282199481?e=1657152000&v=beta&t=qgWYTDsej_SFsFm5nPXzOeUNK5gGlZHEWd6BkxgtT0g)
+> Badge 
 
-
-[![Build Status](http://192.168.56.10:8080/job/alpinehelloworld/badge/icon)](http://192.168.56.10:8080/job/alpinehelloworld/)
+[![Build Status](http://192.168.56.10:8080/buildStatus/icon?job=alpinehelloworld)](http://192.168.56.10:8080/job/alpinehelloworld/)
